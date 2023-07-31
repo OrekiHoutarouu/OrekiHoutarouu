@@ -1,6 +1,6 @@
 ## Hey there! I'm Samuel Campelo, and i'm just a 13 years old trying to learn programming.👋
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me: samuelcampelo@gmail.com
+- 📫 How to reach me: samuelcampelo25@gmail.com
 - 😄 Pronouns: He/him
 <hr>
 <div align="center" style="margin-top: 30px;">
