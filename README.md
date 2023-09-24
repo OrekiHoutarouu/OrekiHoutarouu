@@ -1,4 +1,4 @@
-## Hey there! I'm Samuel Campelo, and i'm just a 14years old trying to learn programming.👋
+## Hey there! I'm Samuel Campelo, and i'm just a 14 years old trying to learn programming.👋
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: samuelcampelo25@gmail.com
 - 😄 Pronouns: He/him
