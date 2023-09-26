@@ -1,7 +1,7 @@
-## Hey there! I'm Samuel Campelo, and i'm just a 14 years old trying to learn programming.👋
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me: samuelcampelo25@gmail.com
-- 😄 Pronouns: He/him
+## Olá! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋
+- Atualmente estou aprendendo Python.
+- Fluente em Inglês.
+- Como me contatar: samuelcampelo25@gmail.com
 <hr>
 <div align="center" style="margin-top: 30px;">
   <a href="https://github.com/OrekiHoutarouu">
