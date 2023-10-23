@@ -29,7 +29,7 @@ Contato
 ## **Sobre meus conhecimentos:**
 <br>
 
-**O que já tenho conhecimento:**
+**O que já aprendi:**
 <div style="display: inline-block;">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Icon">
 </div>
