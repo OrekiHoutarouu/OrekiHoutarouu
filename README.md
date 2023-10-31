@@ -31,7 +31,6 @@ Contato
 
 **O que já aprendi:**
 <div style="display: inline-block;">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scratch/scratch-original.svg" alt="Scratch-Icon">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Icon">
 </div>
 <hr>
@@ -47,5 +46,7 @@ Contato
 
 **O que pretendo aprender num futuro breve:**
 <div style="display: inline-block;">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="PHP-Icon">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP-Icon">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS-Icon">
+</div>
