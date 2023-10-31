@@ -31,6 +31,7 @@ Contato
 
 **O que já aprendi:**
 <div style="display: inline-block;">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scratch/scratch-original.svg" alt="Scratch-Icon">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Icon">
 </div>
 <hr>
