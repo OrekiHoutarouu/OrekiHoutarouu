@@ -32,6 +32,8 @@ Contato
 
 ## **Sobre meus conhecimentos:**
 
+<br>
+
 **Principais plataformas de estudo:**
 
 - Harvard
