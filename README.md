@@ -14,10 +14,6 @@ Contato
   
 ##
 
-Principais plataformas de estudo
-
-- Harvard
-- Curso em Vídeo
 
 <hr>
 
@@ -36,15 +32,19 @@ Principais plataformas de estudo
 
 ## **Sobre meus conhecimentos:**
 
-<br>
+**Principais plataformas de estudo:**
+
+- Harvard
+- Curso em Vídeo
+
+##
 
 **O que já aprendi:**
 <div style="display: inline-block;">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Icon">
 </div>
 
-<hr>
-<br>
+##
 
 **O que estou aprendendo**
 <div style="display: inline-block;">
@@ -53,8 +53,7 @@ Principais plataformas de estudo
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C-Icon">
 </div>
 
-<hr>
-<br>
+##
 
 **O que pretendo aprender num futuro breve:**
 <div style="display: inline-block;">
