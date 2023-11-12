@@ -1,6 +1,6 @@
 ## Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋
 
-- Atualmente estou aprendendo HTML e CSS.
+- Atualmente estou aprendendo HTML, CSS e C.
 - Medalhista de prata ONC 2021.
 - Fluente em Inglês.
 - Espanhol básico.
@@ -8,8 +8,10 @@
 ##
 
 Contato
-- E-mail: samuelcampelo25@gmail.com
-- Instagram: @samuel__campelo
+<ul>
+  <li>E-mail: samuelcampelo25@gmail.com</li>
+  <li>Instagram: @samuel__campelo</li>  
+</ul>
   
 <hr>
 
