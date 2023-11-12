@@ -8,11 +8,17 @@
 ##
 
 Contato
-<ul>
-  <li>E-mail: samuelcampelo25@gmail.com</li>
-  <li>Instagram: @samuel__campelo</li>  
-</ul>
+
+- E-mail: samuelcampelo25@gmail.com
+- Instagram: @samuel__campelo
   
+##
+
+Principais plataformas de estudo
+
+- Harvard
+- Curso em Vídeo
+
 <hr>
 
 <div align="center">
@@ -26,15 +32,17 @@ Contato
  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical"/>
 </div>
    
-<br>
+<hr>
 
 ## **Sobre meus conhecimentos:**
+
 <br>
 
 **O que já aprendi:**
 <div style="display: inline-block;">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Icon">
 </div>
+
 <hr>
 <br>
 
@@ -44,6 +52,7 @@ Contato
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3-Icon">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C-Icon">
 </div>
+
 <hr>
 <br>
 
@@ -51,5 +60,5 @@ Contato
 <div style="display: inline-block;">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL-Icon">
     <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP-Icon">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS-Icon">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript-Icon">
 </div>
