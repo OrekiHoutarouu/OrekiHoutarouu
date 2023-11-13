@@ -43,23 +43,23 @@ Contato
 
 **O que já aprendi:**
 <div style="display: inline-block;">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
 </div>
 
 ##
 
 **O que estou aprendendo**
 <div style="display: inline-block;">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5-Icon">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3-Icon">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C-Icon">
 </div>
 
 ##
 
 **O que pretendo aprender num futuro breve:**
 <div style="display: inline-block;">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL-Icon">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP-Icon">
-    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript-Icon">
 </div>
