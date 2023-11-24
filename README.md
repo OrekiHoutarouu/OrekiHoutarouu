@@ -19,6 +19,7 @@ Contato
 
 <div align="center">
   <a href="https://github.com/OrekiHoutarouu">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/?username=OrekiHoutarouu&count_private=true&show_icons=true&theme=radical"/>
 </div>
     
