@@ -3,7 +3,7 @@
 <h2>Sobre mim</h2>
 <ul>
   <li>Atualmente estou aprendendo HTML, CSS e C.</li>
-  <li><a href="https://certificados.onciencias.org/item/1ZX7TRN6" target="blank">Medalhista de prata ONC 2021.</a></li>
+  <li><a href="https://certificados.onciencias.org/item/1ZX7TRN6">Medalhista de prata ONC 2021.</a></li>
   <li>Fluente em Inglês.</li>
   <li>Espanhol básico.</li>
 </ul>
@@ -11,8 +11,8 @@
 <h2>Contato</h2>
 
 <ul>
-  <li>E-mail: <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank">samuelcampelo25@gmail.com</a></li>
-  <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/" target="blank">@samuel__campelo</a></li>
+  <li>E-mail: **samuelcampelo25@gmail.com**</li>
+  <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/">@samuel__campelo</a></li>
 </ul>
 
 <br>
