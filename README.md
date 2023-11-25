@@ -35,6 +35,7 @@
 <ul>
   <li><a href="https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home" target="blank">Harvard</a></li>
   <li><a href="https://www.cursoemvideo.com" target="blank">Curso em Vídeo</a></li>
+  <li><a href="https://www.prepara.com.br/cursos/presenciais/tecnologia/curso-web-design-presencial">Prepara Cursos</a></li>
 </ul>
 
 <br>
