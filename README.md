@@ -1,4 +1,4 @@
-<h1>Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋</h1>
+<h1 align="center">Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋</h1>
 
 <ul>
   <li>Atualmente estou aprendendo HTML, CSS e C.</li>
