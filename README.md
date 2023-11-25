@@ -1,5 +1,6 @@
 <h1 align="center">Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋</h1>
 
+<h2>Sobre mim</h2>
 <ul>
   <li>Atualmente estou aprendendo HTML, CSS e C.</li>
   <li>Medalhista de prata ONC 2021.</li>
@@ -29,7 +30,7 @@
  
 <br>
 
-<h3>Principais plataformas de estudo:</h3>
+<h2>Principais plataformas de estudo:</h2>
 
 <ul>
   <li>Harvard</li>
@@ -38,7 +39,7 @@
 
 ##
 
-<h3>O que já aprendi:</h3>
+<h2>O que já aprendi:</h2>
 
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
@@ -46,7 +47,7 @@
 
 ##
 
-<h3>O que estou aprendendo:</h3>
+<h2>O que estou aprendendo:</h2>
 
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
@@ -56,7 +57,7 @@
 
 ##
 
-<h3>O que pretendo aprender num futuro breve:</h3>
+<h2>O que pretendo aprender num futuro breve:</h2>
 
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-Icon">
