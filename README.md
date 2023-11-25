@@ -11,7 +11,7 @@
 <h2>Contato</h2>
 
 <ul>
-  <li>E-mail: **samuelcampelo25@gmail.com**</li>
+  <li>E-mail: <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">samuelcampelo25@gmail.com</a></li>
   <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/">@samuel__campelo</a></li>
 </ul>
 
@@ -30,7 +30,7 @@
  
 <br>
 
-<h2>Principais plataformas de estudo:</h2>
+<h2>Principais plataformas de estudo</h2>
 
 <ul>
   <li><a href="https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home" target="blank">Harvard</a></li>
@@ -39,14 +39,14 @@
 
 <br>
 
-<h2>O que já aprendi:</h2>
+<h2>O que já aprendi</h2>
 
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
 </div>
 
 
-<h2>O que estou aprendendo:</h2>
+<h2>O que estou aprendendo</h2>
 
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
@@ -55,7 +55,7 @@
 </div>
 
 
-<h2>O que pretendo aprender num futuro breve:</h2>
+<h2>O que pretendo aprender num futuro breve</h2>
 
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-Icon">
