@@ -3,7 +3,7 @@
 <h2>Sobre mim</h2>
 <ul>
   <li>Atualmente estou aprendendo HTML, CSS e C.</li>
-  <li><a href="https://certificados.onciencias.org/item/1ZX7TRN6">Medalhista de prata ONC 2021.</a></li>
+  <li><a href="https://certificados.onciencias.org/item/1ZX7TRN6" target="_blank">Medalhista de prata ONC 2021.</a></li>
   <li>Fluente em Inglês.</li>
   <li>Espanhol básico.</li>
 </ul>
@@ -11,8 +11,8 @@
 <h2>Contato</h2>
 
 <ul>
-  <li>E-mail: <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">samuelcampelo25@gmail.com</a></li>
-  <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/">@samuel__campelo</a></li>
+  <li>E-mail: <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">samuelcampelo25@gmail.com</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/" target="_blank">@samuel__campelo</a></li>
 </ul>
 
 <br>
@@ -33,8 +33,8 @@
 <h2>Principais plataformas de estudo:</h2>
 
 <ul>
-  <li><a href="https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home">Harvard</a></li>
-  <li><a href="https://www.cursoemvideo.com">Curso em Vídeo</a></li>
+  <li><a href="https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home" target="_blank">Harvard</a></li>
+  <li><a href="https://www.cursoemvideo.com" target="_blank">Curso em Vídeo</a></li>
 </ul>
 
 <br>
