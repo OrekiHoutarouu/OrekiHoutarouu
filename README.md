@@ -1,54 +1,53 @@
-## Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋
+<h1>Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋</h1>
 
-- Atualmente estou aprendendo HTML, CSS e C.
-- Medalhista de prata ONC 2021.
-- Fluente em Inglês.
-- Espanhol básico.
+<ul>
+  <li>Atualmente estou aprendendo HTML, CSS e C.</li>
+  <li>Medalhista de prata ONC 2021.</li>
+  <li>Fluente em Inglês.</li>
+  <li>Espanhol básico.</li>
+</ul>
 
-##
+<h2>Contato</h2>
 
-Contato
-
-- E-mail: samuelcampelo25@gmail.com
-- Instagram: @samuel__campelo
-  
-##
-
-
-<hr>
-
-<div align="center">
-  <a href="https://github.com/OrekiHoutarouu">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/?username=OrekiHoutarouu&count_private=true&show_icons=true&theme=radical"/>
-</div>
-    
-<div align="center">
- <a href="https://github.com/OrekiHoutarouu">
- <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical"/>
-</div>
-   
-<hr>
-
-## **Sobre meus conhecimentos:**
+<ul>
+  <li>E-mail: samuelcampelo25@gmail.com</li>
+  <li>Instagram: @samuel__campelo</li>
+</ul>
 
 <br>
 
-**Principais plataformas de estudo:**
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/?username=OrekiHoutarouu&count_private=true&show_icons=true&theme=radical&locale=pt-br"/>
+  <br>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical&locale=pt-br"/>
+</div>
+    
+<br>
 
-- Harvard
-- Curso em Vídeo
+<h1 align="center">Sobre meus conhecimentos</h1>
+ 
+<br>
+
+<h3>Principais plataformas de estudo:</h3>
+
+<ul>
+  <li>Harvard</li>
+  <li>Curso em Vídeo</li>
+</ul>
 
 ##
 
-**O que já aprendi:**
+<h3>O que já aprendi:</h3>
+
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
 </div>
 
 ##
 
-**O que estou aprendendo**
+<h3>O que estou aprendendo:</h3>
+
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-Icon">
@@ -57,7 +56,8 @@ Contato
 
 ##
 
-**O que pretendo aprender num futuro breve:**
+<h3>O que pretendo aprender num futuro breve:</h3>
+
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-Icon">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP-Icon">
