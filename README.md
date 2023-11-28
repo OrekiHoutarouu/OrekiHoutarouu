@@ -40,26 +40,17 @@
 
 <br>
 
-<h2>O que já aprendi</h2>
+<h2>Backend</h2>
 
 <div style="display: inline-block;">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
-</div>
-
-
-<h2>O que estou aprendendo</h2>
-
-<div style="display: inline-block;">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-Icon">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C-Icon">
 </div>
 
 
-<h2>O que pretendo aprender num futuro breve</h2>
+<h2>Frontend</h2>
 
 <div style="display: inline-block;">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL-Icon">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP-Icon">
-    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-Icon">
 </div>
