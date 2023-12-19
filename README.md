@@ -11,7 +11,7 @@
 <h2>Contato</h2>
 
 <ul>
-  <li>E-mail: <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">samuelcampelo25@gmail.com</a></li>
+  <li>E-mail: <a href="mailto:samuelcampelo25@gmail.com">samuelcampelo25@gmail.com</a></li>
   <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/">@samuel__campelo</a></li>
 </ul>
 
