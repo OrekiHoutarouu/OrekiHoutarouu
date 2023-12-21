@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 <ul>
-  <li>Atualmente estou aprendendo HTML e CSS</li>
+  <li>Atualmente estou aprendendo HTML, CSS e JavaScript</li>
   <li><a href="https://certificados.onciencias.org/item/1ZX7TRN6">Medalhista de prata ONC 2021.</a></li>
   <li>Fluente em Inglês.</li>
   <li>Espanhol básico.</li>
