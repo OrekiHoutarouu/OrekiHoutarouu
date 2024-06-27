@@ -47,4 +47,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=OrekiHoutarouu&count_private=true&show_icons=true&theme=radical&locale=pt-br"/>
   <br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical&locale=pt-br"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation">
+  </picture>
 </div>
