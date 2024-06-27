@@ -16,7 +16,7 @@ jobs:
           github_user_name: OrekiHoutarouu 
           svg_out_path: dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
