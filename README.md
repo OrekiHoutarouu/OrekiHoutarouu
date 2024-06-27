@@ -48,5 +48,3 @@
   <br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical&locale=pt-br"/>
 </div>
-
-![snake gif](https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake.svg)
