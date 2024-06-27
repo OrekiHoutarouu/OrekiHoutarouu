@@ -16,16 +16,6 @@ jobs:
           github_user_name: OrekiHoutarouu 
           svg_out_path: dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: ensure the generated file exists
-        run: |
-          ls dist
-          test -f dist/only-svg/github-contribution-grid-snake.svg
-          test -f dist/only-svg/github-contribution-grid-snake-dark.svg
-
-          test -f dist/docker/github-contribution-grid-snake.svg
-          test -f dist/docker/github-contribution-grid-snake-dark.svg
-          test -f dist/docker/github-contribution-grid-snake.gif
-
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
