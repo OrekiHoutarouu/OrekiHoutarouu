@@ -48,7 +48,7 @@
   <br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical&locale=pt-br"/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
-    <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
   </picture>
 </div>
