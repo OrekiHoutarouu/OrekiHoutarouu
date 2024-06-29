@@ -43,10 +43,10 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="Top Languages"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=OrekiHoutarouu&count_private=true&show_icons=true&theme=radical&locale=pt-br"/>
   <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical&locale=pt-br" alt="Streak Stats"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg">
     <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
