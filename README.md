@@ -18,7 +18,7 @@
 <h2>Principais plataformas de estudo</h2>
 
 <ul>
-  <li><a href="https://profile.edx.org/u/samuelcampelo25">Harvard</a></li>
+  <li><a href="https://drive.google.com/file/d/1GGTYTN-u54SzwgxSF_SCBQs-vHZ2HU5L/view">Harvard</a></li>
   <li><a href="https://www.cursoemvideo.com">Curso em Vídeo</a></li>
   <li><a href="https://www.prepara.com.br/cursos/presenciais/tecnologia/curso-web-design-presencial">Prepara Cursos</a></li>
 </ul>
