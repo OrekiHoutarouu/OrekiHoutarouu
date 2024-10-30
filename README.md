@@ -4,7 +4,7 @@
 <ul>
   <li>Atualmente estou aprendendo Desenvolvimento Web</li>
   <li><a href="https://certificados.onciencias.org/item/1ZX7TRN6">Medalhista de prata ONC 2021.</a></li>
-  <li>Participante OBR 2023</li>
+  <li><a href"https://drive.google.com/file/d/1bBqta6w7AK0sBGAzYcETwisBMZv2y2Ti/view?usp=sharing">Participante OBR 2023</a></li>
   <li>Fluente em Inglês.</li>
   <li>Espanhol e alemão básico.</li>
 </ul>
