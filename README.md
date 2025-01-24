@@ -16,16 +16,6 @@
   <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/">@samuel__campelo</a></li>
 </ul>
 
-<h2>Principais plataformas de estudo</h2>
-
-<ul>
-  <li><a href="https://drive.google.com/file/d/1GGTYTN-u54SzwgxSF_SCBQs-vHZ2HU5L/view">Harvard</a></li>
-  <li><a href="https://www.cursoemvideo.com">Curso em Vídeo</a></li>
-  <li><a href="https://www.prepara.com.br/cursos/presenciais/tecnologia/curso-web-design-presencial">Prepara Cursos</a></li>
-</ul>
-
-<br>
-
 <h1 align="center">Linguagens e Tecnologias</h1>
 
 <div align="center" style="display: inline-block;">
