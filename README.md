@@ -1,17 +1,18 @@
-<h1 align="center">Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋</h1>
+<h1 align="center">Hello, World! I am Samuel Campelo, a teenager learning how to code.👋</h1>
 
-<h2>Sobre mim</h2>
+<h2>About me</h2>
+
 <ul>
-  <li>Atualmente estou aprendendo Desenvolvimento Web</li>
-  <li><a href="https://drive.google.com/file/d/1_aQWAPpBzOYiIXfsbKiBj25VtgkfKKR9/view?usp=sharing">Medalhista de prata ONC 2021.</a></li>
-  <li><a href="https://drive.google.com/file/d/1bBqta6w7AK0sBGAzYcETwisBMZv2y2Ti/view?usp=sharing">Participante OBR 2023</a></li>
-  <li>Fluente em Inglês.</li>
-  <li>Espanhol e alemão básico.</li>
+  <li>I'm currently learning web development</li>
+  <li><a href="https://drive.google.com/file/d/1_aQWAPpBzOYiIXfsbKiBj25VtgkfKKR9/view?usp=sharing">Silver medalist at ONC 2021.</a></li>
+  <li><a href="https://drive.google.com/file/d/1bBqta6w7AK0sBGAzYcETwisBMZv2y2Ti/view?usp=sharing">Participant at OBR 2023</a></li>
+  <li>Fluent in English and Portuguese.</li>
+  <li>Basic German and Spanish.</li>
 </ul>
 
 <br>
 
-<h1 align="center">Linguagens e Tecnologias</h1>
+<h1 align="center">Languages and Technologies</h1>
 
 <div align="center" style="display: inline-block;">
   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
@@ -26,7 +27,7 @@
   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino-Icon">
 </div>
 
-<h1 align="center">Status do GitHub</h1>
+<h1 align="center">GitHub Status</h1>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="Top Languages"/>
