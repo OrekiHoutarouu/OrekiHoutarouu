@@ -3,7 +3,7 @@
 <h2>Sobre mim</h2>
 <ul>
   <li>Atualmente estou aprendendo Desenvolvimento Web</li>
-  <li><a href="[https://certificados.onciencias.org/item/1ZX7TRN6](https://drive.google.com/drive/folders/1_KNGKoy2wV0h9Sg5jL4bPJ8pCRVuZ8Nk?hl=pt-br)">Medalhista de prata ONC 2021.</a></li>
+  <li><a href="https://drive.google.com/file/d/1_aQWAPpBzOYiIXfsbKiBj25VtgkfKKR9/view?usp=sharing">Medalhista de prata ONC 2021.</a></li>
   <li><a href="https://drive.google.com/file/d/1bBqta6w7AK0sBGAzYcETwisBMZv2y2Ti/view?usp=sharing">Participante OBR 2023</a></li>
   <li>Fluente em Inglês.</li>
   <li>Espanhol e alemão básico.</li>
