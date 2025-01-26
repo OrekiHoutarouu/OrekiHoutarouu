@@ -24,7 +24,7 @@
   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino-Icon">
 </div>
 
-<br>
+<h1 align="center">Status do GitHub</h1>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&include_all_commits=true&layout=compact&theme=radical&locale=pt-br" alt="Top Languages"/>
