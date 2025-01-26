@@ -1,6 +1,8 @@
 <h1 align="center">Olá, Mundo! Eu sou Samuel Campelo, um adolescente aprendendo programação.👋</h1>
 
-<h2>Sobre mim</h2>
+<br>
+
+<h2 align="center">Sobre mim</h2>
 <ul>
   <li>Atualmente estou aprendendo Desenvolvimento Web</li>
   <li><a href="https://drive.google.com/file/d/1_aQWAPpBzOYiIXfsbKiBj25VtgkfKKR9/view?usp=sharing">Medalhista de prata ONC 2021.</a></li>
