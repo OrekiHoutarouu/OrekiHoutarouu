@@ -9,6 +9,8 @@
   <li>Espanhol e alemão básico.</li>
 </ul>
 
+<br>
+
 <h1 align="center">Linguagens e Tecnologias</h1>
 
 <div align="center" style="display: inline-block;">
