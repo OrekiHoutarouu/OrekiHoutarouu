@@ -9,13 +9,6 @@
   <li>Espanhol e alemão básico.</li>
 </ul>
 
-<h2>Contato</h2>
-
-<ul>
-  <li>E-mail: <a href="mailto:samuelcampelo25@gmail.com">samuelcampelo25@gmail.com</a></li>
-  <li>Instagram: <a href="https://www.instagram.com/samuel__campelo/">@samuel__campelo</a></li>
-</ul>
-
 <h1 align="center">Linguagens e Tecnologias</h1>
 
 <div align="center" style="display: inline-block;">
