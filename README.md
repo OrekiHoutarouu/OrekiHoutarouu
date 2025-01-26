@@ -2,7 +2,7 @@
 
 <br>
 
-<h2 align="center">Sobre mim</h2>
+<h2>Sobre mim</h2>
 <ul>
   <li>Atualmente estou aprendendo Desenvolvimento Web</li>
   <li><a href="https://drive.google.com/file/d/1_aQWAPpBzOYiIXfsbKiBj25VtgkfKKR9/view?usp=sharing">Medalhista de prata ONC 2021.</a></li>
