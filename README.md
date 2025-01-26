@@ -30,8 +30,8 @@
 <h1 align="center">GitHub Status</h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical&locale=pt-br" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&theme=radical&locale=pt-br" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=radical" alt="Streak Stats"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg">
     <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
