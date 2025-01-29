@@ -12,7 +12,7 @@
 
 <br>
 
-<h1 align="center">Languages and Technologies</h1>
+<h2 align="center">Languages and Technologies</h2>
 
 <div align="center" style="display: inline-block;">
   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
@@ -24,7 +24,7 @@
   <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino-Icon">
 </div>
 
-<h1 align="center">GitHub Status</h1>
+<h2 align="center">GitHub Status</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical" alt="Top Languages"/>
