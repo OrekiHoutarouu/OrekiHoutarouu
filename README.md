@@ -1,4 +1,8 @@
-<h1 align="center">Hello, World! I am Samuel Campelo, a teenager learning how to code.👋</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3E6BFF&width=800&height=60&lines=%3C+Hello%2C+World!+I+am+Samuel+Campelo.%2F%3E" alt="Typing SVG" />
+  </a>
+</div>
 
 <h2>About me</h2>
 
@@ -33,8 +37,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=radical" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=radical" alt="Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=algolia" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=algolia" alt="Streak Stats"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg">
     <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
