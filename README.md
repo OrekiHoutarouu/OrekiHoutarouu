@@ -18,7 +18,7 @@
 
 #
 
-<img align="right" alt="" height="190px" src="">
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3>Connect with me</h3>
 
