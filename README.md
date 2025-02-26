@@ -4,7 +4,9 @@
   </a>
 </div>
 
-<h2>About me</h2>
+#
+
+<h3>About me</h3>
 
 <ul>
   <li>I'm currently learning web development</li>
@@ -14,31 +16,40 @@
   <li>Basic German and Spanish.</li>
 </ul>
 
-<br>
+#
 
-<h2 align="center">Languages and Technologies</h2>
+<img align="right" alt="" height="190px" src="">
 
-<br>
+<h3>Connect with me</h3>
 
-<div align="center" style="display: inline-block;">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C-Icon">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-Icon">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript-Icon">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite-Icon">
-  <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino-Icon">
+<a href="mailto:samuelcampelo25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://discord.gg/vcsjaT9xKv"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.instagram.com/samuel__campelo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.twitch.tv/oreki_houtarouuuu"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://steamcommunity.com/profiles/76561198850085396/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://open.spotify.com/user/4l7udx5irvz4f4jthi2azy2c2"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
+<h3>Tech Stack</h3>
+
+<div style="display: inline-block;">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python-Icon">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C-Icon">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5-Icon">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3-Icon">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript-Icon">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite-Icon">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino-Icon">
 </div>
 
-<br>
+#
 
-<h2 align="center">GitHub Status</h2>
+<h3 align="center">GitHub Status</h3>
 
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=algolia" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=algolia" alt="Streak Stats"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&theme=algolia" alt="Top Languages"/>
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=algolia" alt="Streak Stats"/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg">
     <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
