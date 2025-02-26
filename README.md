@@ -21,10 +21,10 @@
 
 <h3>Connect with me</h3>
 
-<a href="mailto:samuelcampelo25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-Logo"/></a>
-<a href="https://discord.gg/vcsjaT9xKv"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-Logo"></a>
-<a href="https://www.instagram.com/samuel__campelo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-Logo"></a>
-<a href="https://steamcommunity.com/profiles/76561198850085396/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam-Logo"></a>
+<a href="mailto:samuelcampelo25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-Badge"/></a>
+<a href="https://discord.gg/vcsjaT9xKv"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-Badge"></a>
+<a href="https://www.instagram.com/samuel__campelo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-Badge"></a>
+<a href="https://steamcommunity.com/profiles/76561198850085396/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam-Badge"></a>
 
 <h3>Tech Stack</h3>
 
@@ -45,7 +45,8 @@
 <br>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrekiHoutarouu&count_private=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&" alt="Top Languages"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/?username=OrekiHoutarouu&count_private=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&" alt="General Stats"/>
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=github-dark-blue" alt="Streak Stats"/>
 
   #
