@@ -10,7 +10,7 @@
 
 <ul>
   <li>I'm currently learning web development</li>
-  <li>C1 English C2 Portuguese A1 German A2 Spanish.</li>
+  <li><a href ="https://drive.google.com/file/d/1mkgRDDVKGA2iNwNilhM9WtgQsEfjvQdT/view?usp=sharing">B2 English</a> C2 Portuguese A1 German A2 Spanish.</li>
   <li><a href="https://drive.google.com/file/d/1_aQWAPpBzOYiIXfsbKiBj25VtgkfKKR9/view?usp=sharing">Silver medalist at ONC 2021.</a></li>
   <li><a href="https://drive.google.com/file/d/1bBqta6w7AK0sBGAzYcETwisBMZv2y2Ti/view?usp=sharing">Participant at OBR 2023</a></li>
 </ul>
