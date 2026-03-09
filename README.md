@@ -41,7 +41,7 @@
 <br>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats-seven-vert-52.vercel.app/api/top-langs/?username=OrekiHoutarouu&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages"/>
+  <img height="160px" src="https://github-readme-stats-seven-vert-52.vercel.app/api/top-langs/?username=OrekiHoutarouu&hide=jupyter%20notebook,makefile&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages"/>
   <img height="160px" src="https://github-readme-stats-seven-vert-52.vercel.app/api?username=OrekiHoutarouu&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=86400" alt="General Stats"/>
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=github-dark-blue" alt="Streak Stats"/>
 
