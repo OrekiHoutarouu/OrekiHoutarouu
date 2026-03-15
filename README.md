@@ -26,7 +26,7 @@
 
 <h3>Tech Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,html,css,javascript,sqlite"  style="margin: 5px;">
+<img src="https://skillicons.dev/icons?i=python,nodejs,html,css,javascript,sqlite,mongodb"  style="margin: 5px;">
 
 #
 
