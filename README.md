@@ -9,7 +9,7 @@
 <h3>About me</h3>
 
 <ul>
-  <li>I'm currently learning web development</li>
+  <li>I'm currently learning computing vision and AI</li>
   <li><a href ="https://drive.google.com/file/d/1mkgRDDVKGA2iNwNilhM9WtgQsEfjvQdT/view?usp=sharing">B2 English</a> C2 Portuguese</li>
 </ul>
 
