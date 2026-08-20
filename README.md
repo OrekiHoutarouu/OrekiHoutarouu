@@ -1,18 +1,31 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1F6FEB&width=800&height=60&lines=%3C+Hello%2C+World!+I+am+Samuel+Campelo.%2F%3E" alt="Typing SVG" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:050505,50:1155B5,100:1F6FEB&text=SAMUEL%20CAMPELO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Samuel Campelo"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&height=60&lines=%3CHello%2C+World!%2F%3E;%3CWelcome+to+my+code+universe!%2F%3E;%3CCurrently+compiling+my+ideas...%2F%3E" alt="Typing SVG" />
 </div>
 
 #
 
 <h3>About me</h3>
 
-<ul>
-  <li>I'm currently learning computing vision and AI</li>
-  <li><a href ="https://drive.google.com/file/d/1mkgRDDVKGA2iNwNilhM9WtgQsEfjvQdT/view?usp=sharing">B2 English</a> C2 Portuguese</li>
-</ul>
+```javascript
+const Samuel_Campelo = {
 
+  coffee: Infinity,
+  sleep: null,
+
+  currently_learning: [
+    "Computer vision",
+    "AI"
+  ],
+
+  working_on: [
+    "Robotics",
+    "Open-source projects"
+  ]
+
+}
+```
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
