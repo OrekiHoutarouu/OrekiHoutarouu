@@ -48,14 +48,14 @@ const Samuel_Campelo = {
 <br>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats-seven-vert-52.vercel.app/api/top-langs/?username=OrekiHoutarouu&hide=jupyter%20notebook,makefile&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages"/>
-  <img height="160px" src="https://github-readme-stats-seven-vert-52.vercel.app/api?username=OrekiHoutarouu&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=86400" alt="General Stats"/>
-  <img height="160px" src="https://streak-stats.demolab.com/?user=OrekiHoutarouu&count_private=true&layout=compact&theme=github-dark-blue" alt="Streak Stats"/>
+  <img height="160px" src="https://github-readme-stats-seven-vert-52.vercel.app/api/top-langs/?username=samuelcampeloo&hide=jupyter%20notebook,makefile&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=86400" alt="Top Languages"/>
+  <img height="160px" src="https://github-readme-stats-seven-vert-52.vercel.app/api?username=samuelcampeloo&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&cache_seconds=86400" alt="General Stats"/>
+  <img height="160px" src="https://streak-stats.demolab.com/?user=samuelcampeloo&count_private=true&layout=compact&theme=github-dark-blue" alt="Streak Stats"/>
 
   #
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://github.com/OrekiHoutarouu/OrekiHoutarouu/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samuelcampeloo/samuelcampeloo/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/samuelcampeloo/samuelcampeloo/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
   </picture>
 </div>
